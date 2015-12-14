@@ -6,7 +6,8 @@ sets and generate DDI 2.5.
 #
 Usage ....
 
-	Compile and create an executable jar file using Eclipse.  (You need to include ced2arstatareader.jar from https://github.com/ncrncornell/ced2ar-stata-reader)
+	Compile and create an executable jar file using Eclipse. 
+	(You need to include ced2arstatareader.jar from https://github.com/ncrncornell/ced2ar-stata-reader)
 	Execute following  command on the command line
 	java -jar stata2ddigenerator.jar -f stata file location
 #
